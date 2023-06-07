@@ -1,11 +1,15 @@
 package Tema3;
 
+import java.util.Scanner;
+
 public class Tema3 {
 // Para este ejercicio tendréis que crear una función que reciba un precio y devuelva el precio con el IVA incluido.
 
     public static void main(String[] args) {
 
-        double precioSinIVA = 55.20;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Introduzca el precio para añadirle el IVA (21%):");
+        double precioSinIVA = sc.nextDouble();
         double precioConIVA = getPrecioConIVA(precioSinIVA);
         System.out.println("El precio con IVA del 21% es:\n"  + precioConIVA);
     }
