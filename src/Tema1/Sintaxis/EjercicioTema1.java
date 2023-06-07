@@ -1,6 +1,6 @@
-package Tema1;
+package Tema1.Sintaxis;
 
-public class Tema1 {
+public class EjercicioTema1 {
 
     public static void main(String[] args) {
 

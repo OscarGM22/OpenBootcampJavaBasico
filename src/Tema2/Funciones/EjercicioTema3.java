@@ -1,8 +1,8 @@
-package Tema3;
+package Tema2.Funciones;
 
 import java.util.Scanner;
 
-public class Tema3 {
+public class EjercicioTema3 {
 // Para este ejercicio tendréis que crear una función que reciba un precio y devuelva el precio con el IVA incluido.
 
     public static void main(String[] args) {
