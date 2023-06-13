@@ -1,4 +1,4 @@
-package Tema1.Sintaxis;
+package Tema1Sintaxis;
 
 public class EjercicioTema1 {
 

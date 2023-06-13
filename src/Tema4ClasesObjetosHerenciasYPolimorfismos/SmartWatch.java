@@ -1,4 +1,4 @@
-package Tema4.ClasesObjetosHerenciasYPolimorfismos;
+package Tema4ClasesObjetosHerenciasYPolimorfismos;
 
 public class SmartWatch extends SmartDevice {        //CLASE HIJA 2
     // 1. Atributos

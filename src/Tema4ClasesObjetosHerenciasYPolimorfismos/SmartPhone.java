@@ -1,4 +1,4 @@
-package Tema4.ClasesObjetosHerenciasYPolimorfismos;
+package Tema4ClasesObjetosHerenciasYPolimorfismos;
 
 public class SmartPhone extends SmartDevice {        //CLASE HIJA 1
 

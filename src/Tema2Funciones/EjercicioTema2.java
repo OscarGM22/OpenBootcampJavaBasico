@@ -1,4 +1,4 @@
-package Tema2.Funciones;
+package Tema2Funciones;
 
 import java.util.Scanner;
 
